@@ -21,5 +21,5 @@
 :root {
 	--accentcolor:			244,184,228;		/*	blurple		-	default:	88,101,242		*/
 	--accentcolor2:			235,186,227;	/*	boostpink	-	default:	255,115,250		*/
-	--linkcolor:			139,110,139;		/*	link		-	default:	0,176,244		*/
+	--linkcolor:			244,184,228;		/*	link		-	default:	0,176,244		*/
 }
